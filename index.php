@@ -5,14 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio Website</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/styles/style.css">
     <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
 </head>
 
 <body>
     <header>
         <nav>
-            <img src="./asset/carepy_logo-1.svg" alt="">
+            <img src="./assets/carepy_logo-1.svg" alt="">
             <ul>
                 <li><a href="#" class="active">About</a></li>
                 <li><a href="#portfolio-loc">Portfolio</a></li>
@@ -117,7 +117,7 @@
         <h1>Portfolio</h1>
         <div class="portfolio-cards">
             <div class="portfolio-card">
-                <img src="asset/images/si-perpus.png" alt="">
+                <img src="assets/images/si-perpus.png" alt="">
                 <div class="overlay">
                     <h3>SI-Perpus</h3>
                     <p>Mini Next.JS project from Aksi Belajar</p>
@@ -125,7 +125,7 @@
                 </div>
             </div>
             <div class="portfolio-card">
-                <img src="asset/images/verseifylance.png" alt="">
+                <img src="assets/images/verseifylance.png" alt="">
                 <div class="overlay">
                     <h3>Verseifylance</h3>
                     <p>My end of semester exam Web Programming in 4th semester to create website for freelancer in my
@@ -134,7 +134,7 @@
                 </div>
             </div>
             <div class="portfolio-card">
-                <img src="asset/images/sneat-aw.png" alt="">
+                <img src="assets/images/sneat-aw.png" alt="">
                 <div class="overlay">
                     <h3>Data Warehouse and OLAP</h3>
                     <p>Used for showcase my assignment of Data Warehouse and OLAP class using database Adventure Works
@@ -143,7 +143,7 @@
                 </div>
             </div>
             <div class="portfolio-card">
-                <img src="asset/images/pw-smt4.png" alt="">
+                <img src="assets/images/pw-smt4.png" alt="">
                 <div class="overlay">
                     <h3>Pemrograman Web</h3>
                     <p>All of my projects from the web programming class in semester 4</p>
@@ -151,7 +151,7 @@
                 </div>
             </div>
             <div class="portfolio-card">
-                <img src="asset/images/inball.png" alt="">
+                <img src="assets/images/inball.png" alt="">
                 <div class="overlay">
                     <h3>InBall</h3>
                     <p>Used for UTS lesson Web Programming on 4th semester</p>
@@ -234,7 +234,7 @@
             </div>
         </div>
     </section>
-    <script src="script.js"></script>
+    <script src="assets/styles/script.js"></script>
     <script>
         document.getElementById('contactButton').addEventListener('click', function () {
             window.location.href = 'https://api.whatsapp.com/send?phone=6289510171698';
