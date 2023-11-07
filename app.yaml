@@ -1,11 +1,9 @@
 runtime: php74
 
 handlers:
-- url: /assets/images
-  static_dir: assets/images
-
 - url: /.*
   script: index.php
 
-- url: /assets/styles
-  static_dir: assets/styles
+- url: /(.*)
+  static_files: assets/\1
+  upload: assets/(.*)
