@@ -20,7 +20,7 @@ body {
 header {
   height: 100vh;
   padding: 36px 100px;
-  background-image: url(asset/images/SAVE_20200215_194105.png);
+  background-image: url(https://storage.googleapis.com/dicoding-submission-mini-profile/SAVE_20200215_194105.png);
   /* give backgroud more spacing padding on right */
   background-position: center 80px;
   background-size: contain;
