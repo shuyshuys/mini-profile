@@ -68,47 +68,47 @@
         <h1>My Skills</h1>
         <div class="cards">
             <div class="skill-card">
-                <img src="asset/linux-96.png" alt="">
+                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/linux-96.png" alt="">
                 <h2>Linux</h2>
             </div>
             <div class="skill-card">
-                <img src="asset/images/proxmox.png" alt="">
+                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/proxmox.png" alt="">
                 <h2>Proxmox<h2>
             </div>
             <div class="skill-card">
-                <img src="asset/docker.svg" alt="">
+                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/docker.svg" alt="">
                 <h2>Docker</h2>
             </div>
             <div class="skill-card">
-                <img src="asset/git.svg" alt="">
+                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/git.svg" alt="">
                 <h2>GIT</h2>
             </div>
             <div class="skill-card">
-                <img src="asset/nodejs.svg" alt="">
+                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/nodejs.svg" alt="">
                 <h2>PHP</h2>
             </div>
             <div class="skill-card">
-                <img src="asset/mysql.svg" alt="">
+                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/mysql.svg" alt="">
                 <h2>MySQL</h2>
             </div>
             <div class="skill-card">
-                <img src="asset/html.svg" alt="">
+                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/html.svg" alt="">
                 <h2>HTML</h2>
             </div>
             <div class="skill-card">
-                <img src="asset/css.svg" alt="">
+                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/css.svg" alt="">
                 <h2>CSS</h2>
             </div>
             <div class="skill-card">
-                <img src="asset/js.svg" alt="">
+                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/js.svg" alt="">
                 <h2>JavaScript</h2>
             </div>
             <div class="skill-card">
-                <img src="asset/nodejs.svg" alt="">
+                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/nodejs.svg" alt="">
                 <h2>NodeJS</h2>
             </div>
             <div class="skill-card">
-                <img src="asset/python.svg" alt="">
+                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/python.svg" alt="">
                 <h2>Python</h2>
             </div>
         </div>
