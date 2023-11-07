@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio Website</title>
-    <link rel="stylesheet" href="assets/styles/style.css">
+    <link rel="stylesheet" href="./assets/styles/style.css">
     <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
 </head>
 
@@ -234,7 +234,7 @@
             </div>
         </div>
     </section>
-    <script src="assets/styles/script.js"></script>
+    <script src="./assets/styles/script.js"></script>
     <script>
         document.getElementById('contactButton').addEventListener('click', function () {
             window.location.href = 'https://api.whatsapp.com/send?phone=6289510171698';
