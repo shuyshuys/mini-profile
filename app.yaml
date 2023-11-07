@@ -8,5 +8,5 @@ handlers:
   script: index.php
 
 - url: /styles/(.*)
-  static_dir: assets/styles/\1
+  static_files: assets/styles/\1
   upload: assets/style/(.*)
