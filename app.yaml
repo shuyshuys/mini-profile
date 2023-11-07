@@ -1,0 +1,8 @@
+runtime: php74
+
+handlers:
+- url: /images
+  static_dir: assets/images
+
+- url: /.*
+  script: index.php
