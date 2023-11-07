@@ -7,5 +7,6 @@ handlers:
 - url: /.*
   script: index.php
 
-- url: /styles
-  static_dir: assets/styles
+- url: /styles/(.*)
+  static_dir: assets/styles/\1
+  upload: assets/style/(.*)
