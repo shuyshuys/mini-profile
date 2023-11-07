@@ -4,6 +4,8 @@ handlers:
 - url: /.*
   script: index.php
 
-- url: /(.*)
-  static_files: assets/\1
-  upload: assets/(.*)
+- url: /assets/styles
+  static_dir: assets/styles
+
+- url: /assets/images
+  static_dir: assets/images
