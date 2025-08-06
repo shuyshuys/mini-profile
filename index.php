@@ -77,7 +77,7 @@
                 <h2>Linux</h2>
             </div>
             <div class="skill-card">
-                <img src="https://yazid.consulting/assets/proxmox.png" alt="">
+                <img src="https://yazid.consulting/assets/images/proxmox.png" alt="">
                 <h2>Proxmox<h2>
             </div>
             <div class="skill-card">
@@ -89,7 +89,7 @@
                 <h2>GIT</h2>
             </div>
             <div class="skill-card">
-                <img src="https://yazid.consulting/assets/php.png" alt="">
+                <img src="https://yazid.consulting/assets/images/php.png" alt="">
                 <h2>PHP</h2>
             </div>
             <div class="skill-card">
