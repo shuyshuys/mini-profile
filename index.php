@@ -25,6 +25,10 @@
             </div>
         </nav>
         <div class="landing">
+            <!-- <div class="profile-image">
+                <img src="assets/images/me.png" alt="Ahmad Yazid Isnandar"
+                    style="max-height: 400px; height: auto; object-fit: cover;">
+            </div> -->
             <div class="intro">
                 <h3>I'M <Span>Ahmad Yazid Isnandar, S.Kom.</Span><br>System Administrator <br> & Full Stack Developer
                 </h3>
@@ -69,47 +73,47 @@
         <h1>My Skills</h1>
         <div class="cards">
             <div class="skill-card">
-                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/linux-96.png" alt="">
+                <img src="https://yazid.consulting/assets/linux-96.png" alt="">
                 <h2>Linux</h2>
             </div>
             <div class="skill-card">
-                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/proxmox.png" alt="">
+                <img src="https://yazid.consulting/assets/proxmox.png" alt="">
                 <h2>Proxmox<h2>
             </div>
             <div class="skill-card">
-                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/docker.svg" alt="">
+                <img src="https://yazid.consulting/assets/docker.svg" alt="">
                 <h2>Docker</h2>
             </div>
             <div class="skill-card">
-                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/git.svg" alt="">
+                <img src="https://yazid.consulting/assets/git.svg" alt="">
                 <h2>GIT</h2>
             </div>
             <div class="skill-card">
-                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/php.svg" alt="">
+                <img src="https://yazid.consulting/assets/php.png" alt="">
                 <h2>PHP</h2>
             </div>
             <div class="skill-card">
-                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/mysql.svg" alt="">
+                <img src="https://yazid.consulting/assets/mysql.svg" alt="">
                 <h2>MySQL</h2>
             </div>
             <div class="skill-card">
-                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/html.svg" alt="">
+                <img src="https://yazid.consulting/assets/html.svg" alt="">
                 <h2>HTML</h2>
             </div>
             <div class="skill-card">
-                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/css.svg" alt="">
+                <img src="https://yazid.consulting/assets/css.svg" alt="">
                 <h2>CSS</h2>
             </div>
             <div class="skill-card">
-                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/js.svg" alt="">
+                <img src="https://yazid.consulting/assets/js.svg" alt="">
                 <h2>JavaScript</h2>
             </div>
             <div class="skill-card">
-                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/nodejs.svg" alt="">
+                <img src="https://yazid.consulting/assets/nodejs.svg" alt="">
                 <h2>NodeJS</h2>
             </div>
             <div class="skill-card">
-                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/python.svg" alt="">
+                <img src="https://yazid.consulting/assets/python.svg" alt="">
                 <h2>Python</h2>
             </div>
         </div>
