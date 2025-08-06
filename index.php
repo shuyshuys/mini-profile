@@ -26,7 +26,8 @@
         </nav>
         <div class="landing">
             <div class="intro">
-                <h3>I'M <Span>Ahmad Yazid<br>Isnandar</Span><br>IT Consultant &<br>System Administrator</h3>
+                <h3>I'M <Span>Ahmad Yazid Isnandar, S.Kom.</Span><br>System Administrator <br> & Full Stack Developer
+                </h3>
                 <button id="contactButton">Contact Me</button>
             </div>
             <div class="socials">
@@ -84,7 +85,7 @@
                 <h2>GIT</h2>
             </div>
             <div class="skill-card">
-                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/nodejs.svg" alt="">
+                <img src="https://storage.googleapis.com/dicoding-submission-mini-profile/php.svg" alt="">
                 <h2>PHP</h2>
             </div>
             <div class="skill-card">
@@ -117,11 +118,28 @@
         <h1>Portfolio</h1>
         <div class="portfolio-cards">
             <div class="portfolio-card">
-                <img src="assets/images/si-perpus.png" alt="">
+                <img src="assets/images/app-zaki-blue.png" alt="">
                 <div class="overlay">
-                    <h3>SI-Perpus</h3>
-                    <p>Mini Next.JS project from Aksi Belajar</p>
-                    <button>See More -></button>
+                    <h3>Dashboard</h3>
+                    <p>Application deployed on VPS</p>
+                    <button onclick="window.location.href='https://app.zaki.blue'">See More -></button>
+                </div>
+            </div>
+            <div class="portfolio-card">
+                <img src="assets/images/rb-gudang.png" alt="">
+                <div class="overlay">
+                    <h3>Simple Inventory Management</h3>
+                    <p>A simple application for managing inventory efficiently, build with filament v3</p>
+                    <button onclick="window.location.href='https://rb-gudang.yazid.consulting'">See More -></button>
+                </div>
+            </div>
+            <div class="portfolio-card">
+                <img src="assets/images/monitoring.png" alt="">
+                <div class="overlay">
+                    <h3>Dashboard Monitoring</h3>
+                    <p>Application for monitoring system performance and metrics from ZABBIX 7.0 API, build with
+                        filament v3</p>
+                    <button onclick="window.location.href='https://monitor.yazid.consulting'">See More -></button>
                 </div>
             </div>
             <div class="portfolio-card">
@@ -226,7 +244,7 @@
         <div class="contact">
             <div class="contact-card">
                 <i class="ri-message-3-line"></i>
-                <p>admin@ahmadyaz.my.id</p>
+                <p>admin@yazid.consulting</p>
             </div>
             <div class="contact-card">
                 <i class="ri-map-pin-3-line"></i>
@@ -236,7 +254,7 @@
     </section>
     <script src="assets/styles/script.js"></script>
     <script>
-        document.getElementById('contactButton').addEventListener('click', function () {
+        document.getElementById('contactButton').addEventListener('click', function() {
             window.location.href = 'https://api.whatsapp.com/send?phone=6289510171698';
         });
     </script>
